@@ -1,0 +1,20 @@
+{
+  "name": "TwitterJSClient",
+  "main": "lib/Twitter.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jmtt89/TwitterJSClient",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "twitter"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
